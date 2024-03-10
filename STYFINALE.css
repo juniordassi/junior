@@ -1,0 +1,42 @@
+div{
+    text-align: center;
+    margin: auto;
+    width: 75%;
+    padding: 2%;
+    line-height: 39px;
+    font-size: 29px;
+    color: rgb(73, 101, 126);
+}
+a{
+text-decoration: none;
+background-color: brown;
+color: aliceblue;
+font-size: 35px;
+line-height: 59px;
+border-style: solid;
+border-radius: 10px;
+border-color: aqua;
+padding: 3px;
+  }
+  #share {
+    text-align: center;
+  }
+  
+  #whatsapp-share {
+    background-color: #25d366;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #whatsapp-share:hover {
+    background-color: #128c7e;
+  }
+  
+  #remaining-shares {
+    font-weight: bold;
+    color: #25d366;
+  }
+  
